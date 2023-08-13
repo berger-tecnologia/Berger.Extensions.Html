@@ -1,4 +1,4 @@
-﻿namespace Berger.Extensions.Html
+﻿namespace Berger.Extensions.Html.Elements
 {
     public enum HtmlInput
     {
@@ -21,8 +21,9 @@
         Submit = 17,
         Tel = 18,
         Text = 19,
-        Time = 20,
-        Url = 21,
-        Week = 22
+        TextArea = 20,
+        Time = 21,
+        Url = 22,
+        Week = 23
     }
 }

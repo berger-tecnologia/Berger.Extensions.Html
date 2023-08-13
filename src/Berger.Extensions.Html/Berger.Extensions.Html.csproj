@@ -4,4 +4,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>disable</Nullable>
 	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Berger.Extensions.Html.Base\Berger.Extensions.Html.Elements.csproj" />
+	</ItemGroup>
 </Project>

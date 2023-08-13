@@ -1,4 +1,4 @@
-﻿namespace Berger.Extensions.Html
+﻿namespace Berger.Extensions.Html.Elements
 {
     public class BaseHtml
     {
