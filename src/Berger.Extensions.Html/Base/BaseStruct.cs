@@ -1,4 +1,6 @@
-﻿namespace Berger.Extensions.Html
+﻿using Berger.Extensions.Html.Elements;
+
+namespace Berger.Extensions.Html
 {
     public class BaseStruct : BaseHtml
     {
